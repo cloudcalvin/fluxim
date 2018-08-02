@@ -1,0 +1,7 @@
+[requires]
+docopt/0.6.2@conan/stable
+jsonformoderncpp/2.1.1@vthiery/stable
+
+[generators]
+txt
+cmake
